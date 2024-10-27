@@ -45,20 +45,28 @@
     /* padding: 10px 10px; */
 }
 .message-input-text-box{
-    height: 89%;
+    height: 75%;
     width: 100%;
-    outline: none;
+    /* outline: none; */
     border-radius: 20px;
     font-size: 20px;
     margin-right: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border: 1px solid black;
     /* display: block; */
 }
 
 .message-input-send-btn{
     font-size: 20px;
     width:100px;
-    border-radius: 20px;
+    height: 78%;
+    border-radius: 30px;
     cursor: pointer;
+    background-color:burlywood;
+    margin-top: 5px;
+    /* margin-left: 5px; */
+    border: 1px solid black;
 }
 
 .chatting-box-left{

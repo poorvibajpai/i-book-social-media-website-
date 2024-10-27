@@ -20,7 +20,7 @@ function MessageBox({friendData, setClicked}) {
           </div>
         </div>
         <div className="message-input">
-          <input className='message-input-text-box' type="text" />
+          <input className='message-input-text-box'placeholder='  Enter your message here...' type="text" />
           <button className='message-input-send-btn'>Send</button>
         </div>
     </div>
